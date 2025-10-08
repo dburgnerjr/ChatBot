@@ -1,7 +1,7 @@
-from openai import OpenAI
+from openai import OpenAI # this line throws an error, said ImportError:  no module named openai
 client = OpenAI()
 
-client.api_key = "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"
+client.api_key = ""
 
 def chat_with_gpt(prompt):
     response = client.ChatCompletion.create(
