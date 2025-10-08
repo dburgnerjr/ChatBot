@@ -1,0 +1,1 @@
+Greetings, this is my first attempt at creating a chatbot using Python.  This was based on a tutorial I found on YouTube (https://www.youtube.com/watch?v=q5HiD5PNuck).  When running it, I spotted an error (see main.py for details).
